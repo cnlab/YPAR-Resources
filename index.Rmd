@@ -1,0 +1,67 @@
+---
+title: "YPAR Resources"
+author: "Ben Muzekari"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    code_folding: hide
+    df_print: paged
+    highlight: tango
+    theme: united
+    toc: yes
+    toc_float:
+      collapsed: yes
+      smooth_scroll: yes
+  pdf_document:
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Course Materials {.tabset}
+
+## Syllabus
+[Syllabus](Course Materials/Syllabus/Syllabus.docx)
+
+## Instructor Slides
+
+[Week 1](Course Materials/Instructor Slides/Week 1.pptx)  
+
+[Week 3](Course Materials/Instructor Slides/Week 3.pptx)
+
+[Week 4](Course Materials/Instructor Slides/Week 4.pptx)
+
+[Week 5](Course Materials/Instructor Slides/Week 5.pptx)
+
+[Week 6](Course Materials/Instructor Slides/Week 6.pptx)
+
+## Seminar Facilitation Slides
+
+[Week 7](Course Materials/Seminar Facilitation Slides/Week 7.pptx)  
+
+[Week 8](Course Materials/Seminar Facilitation Slides/Week 8.pptx)
+
+[Week 10](Course Materials/Seminar Facilitation Slides/Week 10.pptx)
+
+[Week 12](Course Materials/Seminar Facilitation Slides/Week 12.pptx)  
+
+[Week 13](Course Materials/Seminar Facilitation Slides/Week 13.pptx)
+
+[Week 14](Course Materials/Seminar Facilitation Slides/Week 14.pptx)
+
+
+## Readings
+
+
+
+# YPAR Materials {.tabset}
+
+## Templates
+
+## 
+
+
+
+# Consent Materials {.tabset}
