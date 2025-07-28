@@ -64,6 +64,62 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Week 3 {.tabset}
 
+[Reading 1](Course Materials/Readings/Week 3/Academic/Bushover_2024.pdf)  
+[Reading 2](Course Materials/Readings/Week 3/Academic/choi-et-al-2024-temperature-crime-and-violence-a-systematic-review-and-meta-analysis.pdf)  
+[Reading 3](Course Materials/Readings/Week 3/Academic/Thompson_2023.pdf)  
+[Reading 4](Course Materials/Readings/Week 3/Academic/Uejio_2011.pdf)
+
+### Week 4 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 4/Academic/Albarracin-Determinants_of_behaviour.pdf)  
+[Reading 2](Course Materials/Readings/Week 4/Academic/Whitmarsh-Behaviour_change_to_address.pdf)  
+
+### Week 5 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 5/Academic/Kikut-YPACR framework.pdf)  
+[Reading 2](Course Materials/Readings/Week 5/Academic/Malloy-Scoping_review.pdf)  
+[Reading 3](Course Materials/Readings/Week 5/Academic/Yzer_2012.pdf) 
+
+### Week 6 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 6/Academic/Cullen_2020.pdf)  
+[Reading 2](Course Materials/Readings/Week 6/Academic/Thompson-Chapter34_Ethical_Issues.pdf)  
+
+### Week 7 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 7/Academic/Cappella-Integrating_message_effects.pdf)  
+[Reading 2](Course Materials/Readings/Week 7/Academic/Fishbein-Role_of_theory.pdf)  
+
+### Week 8 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 8/Academic/Cubilla-picturing_adelante.pdf)  
+[Reading 2](Course Materials/Readings/Week 8/Academic/Theis-project_SMART.pdf)
+
+### Week 10 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 10/Academic/Kikut-Stein_2024.pdf)  
+[Reading 2](Course Materials/Readings/Week 10/Academic/Thorn-#chatsafe_project.pdf)
+
+### Week 11 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 11/Academic/Dooley_2021.pdf)  
+[Reading 2](Course Materials/Readings/Week 11/Academic/Lewandowski-youth_climate_survey.pdf)
+
+### Week 12 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 12/Academic/Maibach-harnessing_the_power_of_communication.pdf)  
+[Reading 2](Course Materials/Readings/Week 12/Academic/sinclair-et-al-behavioral-interventions-motivate-action-to-address-climate-change.pdf)
+
+### Week 13 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 13/Academic/Ojala-youth_and_climate_communication.pdf)  
+[Reading 2](Course Materials/Readings/Week 13/Academic/Trott_2024.pdf)
+
+### Week 14 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 14/Academic/Lewis-not_seeing_eye_to_eye.pdf)  
+[Reading 2](Course Materials/Readings/Week 14/Academic/Song-what_counts_as_an_environmental_issue.pdf)
+
 
 ## Practical {.tabset}
 
@@ -73,6 +129,51 @@ knitr::opts_chunk$set(echo = TRUE)
 [Reading 2](Course Materials/Readings/Week 2/Practical/CFCL Stepping Stone 1.pdf)  
 
 ### Week 3 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 3/Practical/CFCL Stepping Stone 2.pdf)  
+[Reading 2](Course Materials/Readings/Week 3/Practical/FINAL-Youth-Engaged-Research-report-092024.pdf)  
+
+### Week 4 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 4/Practical/CFCL Stepping Stone 3.pdf)  
+
+### Week 5 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 5/Practical/CFCL Stepping Stone 4.pdf)  
+
+### Week 6 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 6/Practical/CFCL Stepping Stone 4.pdf)  
+
+### Week 7 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 7/Practical/CFCL Stepping Stone 5.pdf)  
+
+### Week 8 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 8/Practical/CFCL Stepping Stone 6.pdf)  
+[Reading 2](Course Materials/Readings/Week 8/Practical/tpb.measurement.pdf)  
+
+### Week 10 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 10/Practical/CFCL Stepping Stone 6.pdf)  
+[Reading 2](Course Materials/Readings/Week 10/Practical/Orygen-Co-designing-with-YP-the-fundamentals.pdf)  
+
+### Week 11 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 11/Practical/CFCL Stepping Stone 7.pdf) 
+
+### Week 12 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 12/Practical/CFCL Stepping Stone 7.pdf) 
+
+### Week 13 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 13/Practical/CFCL Stepping Stone 8.pdf) 
+
+### Week 14 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 14/Practical/CFCL Stepping Stone 9.pdf) 
 
 # YPAR Materials {.tabset}
 
