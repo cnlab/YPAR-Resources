@@ -52,9 +52,27 @@ knitr::opts_chunk$set(echo = TRUE)
 [Week 14](Course Materials/Seminar Facilitation Slides/Week 14.pptx)
 
 
-## Readings
+# Readings {.tabset}
+
+## Academic {.tabset}
+
+### Week 2 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 2/Academic/Fuligni-2019-Need-to-contribute-during-adolescence.pdf)  
+[Reading 2](Course Materials/Readings/Week 2/Academic/Ozer-2018-Youth-led-YPAR.pdf)  
+[Reading 3](Course Materials/Readings/Week 2/Academic/ozer-2024-Youth-let_participatory_action.pdf)  
+
+### Week 3 {.tabset}
 
 
+## Practical {.tabset}
+
+### Week 2 {.tabset}
+
+[Reading 1](Course Materials/Readings/Week 2/Practical/Leveraging.pdf)  
+[Reading 2](Course Materials/Readings/Week 2/Practical/CFCL Stepping Stone 1.pdf)  
+
+### Week 3 {.tabset}
 
 # YPAR Materials {.tabset}
 
