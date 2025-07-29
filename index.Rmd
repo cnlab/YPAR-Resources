@@ -23,164 +23,281 @@ knitr::opts_chunk$set(echo = TRUE)
 # Course Materials {.tabset}
 
 ## Syllabus
-[Syllabus](Course Materials/Syllabus/Syllabus.docx)
+
+[Syllabus](Course%20Materials/Syllabus/Syllabus.docx)
 
 ## Instructor Slides
 
-[Week 1](Course Materials/Instructor Slides/Week 1.pptx)  
+[Week 1](Course%20Materials/Instructor%20Slides/Week%201.pptx)
 
-[Week 3](Course Materials/Instructor Slides/Week 3.pptx)
+[Week 3](Course%20Materials/Instructor%20Slides/Week%203.pptx)
 
-[Week 4](Course Materials/Instructor Slides/Week 4.pptx)
+[Week 4](Course%20Materials/Instructor%20Slides/Week%204.pptx)
 
-[Week 5](Course Materials/Instructor Slides/Week 5.pptx)
+[Week 5](Course%20Materials/Instructor%20Slides/Week%205.pptx)
 
-[Week 6](Course Materials/Instructor Slides/Week 6.pptx)
+[Week 6](Course%20Materials/Instructor%20Slides/Week%206.pptx)
 
 ## Seminar Facilitation Slides
 
-[Week 7](Course Materials/Seminar Facilitation Slides/Week 7.pptx)  
+[Week 7](Course%20Materials/Seminar%20Facilitation%20Slides/Week%207.pptx)
 
-[Week 8](Course Materials/Seminar Facilitation Slides/Week 8.pptx)
+[Week 8](Course%20Materials/Seminar%20Facilitation%20Slides/Week%208.pptx)
 
-[Week 10](Course Materials/Seminar Facilitation Slides/Week 10.pptx)
+Week 9 (Spring Break)
 
-[Week 12](Course Materials/Seminar Facilitation Slides/Week 12.pptx)  
+[Week 10](Course%20Materials/Seminar%20Facilitation%20Slides/Week%2010.pptx)
 
-[Week 13](Course Materials/Seminar Facilitation Slides/Week 13.pptx)
+[Week 12](Course%20Materials/Seminar%20Facilitation%20Slides/Week%2012.pptx)
 
-[Week 14](Course Materials/Seminar Facilitation Slides/Week 14.pptx)
+[Week 13](Course%20Materials/Seminar%20Facilitation%20Slides/Week%2013.pptx)
 
+[Week 14](Course%20Materials/Seminar%20Facilitation%20Slides/Week%2014.pptx)
 
 # Readings {.tabset}
 
 ## Academic {.tabset}
 
+### Week 1 {.tabset}
+No readings
+
 ### Week 2 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 2/Academic/Fuligni-2019-Need-to-contribute-during-adolescence.pdf)  
-[Reading 2](Course Materials/Readings/Week 2/Academic/Ozer-2018-Youth-led-YPAR.pdf)  
-[Reading 3](Course Materials/Readings/Week 2/Academic/ozer-2024-Youth-let_participatory_action.pdf)  
+[Reading 1](Course%20Materials/Readings/Week%202/Academic/Fuligni-2019-Need-to-contribute-during-adolescence.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%202/Academic/Ozer-2018-Youth-led-YPAR.pdf)\
+[Reading 3](Course%20Materials/Readings/Week%202/Academic/ozer-2024-Youth-let_participatory_action.pdf)
 
 ### Week 3 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 3/Academic/Bushover_2024.pdf)  
-[Reading 2](Course Materials/Readings/Week 3/Academic/choi-et-al-2024-temperature-crime-and-violence-a-systematic-review-and-meta-analysis.pdf)  
-[Reading 3](Course Materials/Readings/Week 3/Academic/Thompson_2023.pdf)  
-[Reading 4](Course Materials/Readings/Week 3/Academic/Uejio_2011.pdf)
+[Reading 1](Course%20Materials/Readings/Week%203/Academic/Bushover_2024.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%203/Academic/choi-et-al-2024-temperature-crime-and-violence-a-systematic-review-and-meta-analysis.pdf)\
+[Reading 3](Course%20Materials/Readings/Week%203/Academic/Thompson_2023.pdf)\
+[Reading 4](Course%20Materials/Readings/Week%203/Academic/Uejio_2011.pdf)
 
 ### Week 4 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 4/Academic/Albarracin-Determinants_of_behaviour.pdf)  
-[Reading 2](Course Materials/Readings/Week 4/Academic/Whitmarsh-Behaviour_change_to_address.pdf)  
+[Reading 1](Course%20Materials/Readings/Week%204/Academic/Albarracin-Determinants_of_behaviour.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%204/Academic/Whitmarsh-Behaviour_change_to_address.pdf)
 
 ### Week 5 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 5/Academic/Kikut-YPACR framework.pdf)  
-[Reading 2](Course Materials/Readings/Week 5/Academic/Malloy-Scoping_review.pdf)  
-[Reading 3](Course Materials/Readings/Week 5/Academic/Yzer_2012.pdf) 
+[Reading 1](Course%20Materials/Readings/Week%205/Academic/Kikut-YPACR%20framework.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%205/Academic/Malloy-Scoping_review.pdf)\
+[Reading 3](Course%20Materials/Readings/Week%205/Academic/Yzer_2012.pdf)
 
 ### Week 6 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 6/Academic/Cullen_2020.pdf)  
-[Reading 2](Course Materials/Readings/Week 6/Academic/Thompson-Chapter34_Ethical_Issues.pdf)  
+[Reading 1](Course%20Materials/Readings/Week%206/Academic/Cullen_2020.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%206/Academic/Thompson-Chapter34_Ethical_Issues.pdf)
 
 ### Week 7 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 7/Academic/Cappella-Integrating_message_effects.pdf)  
-[Reading 2](Course Materials/Readings/Week 7/Academic/Fishbein-Role_of_theory.pdf)  
+[Reading 1](Course%20Materials/Readings/Week%207/Academic/Cappella-Integrating_message_effects.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%207/Academic/Fishbein-Role_of_theory.pdf)
 
 ### Week 8 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 8/Academic/Cubilla-picturing_adelante.pdf)  
-[Reading 2](Course Materials/Readings/Week 8/Academic/Theis-project_SMART.pdf)
+[Reading 1](Course%20Materials/Readings/Week%208/Academic/Cubilla-picturing_adelante.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%208/Academic/Theis-project_SMART.pdf)
+
+### Week 9 {.tabset}
+No readings (Spring Break)
 
 ### Week 10 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 10/Academic/Kikut-Stein_2024.pdf)  
-[Reading 2](Course Materials/Readings/Week 10/Academic/Thorn-#chatsafe_project.pdf)
+[Reading 1](Course%20Materials/Readings/Week%2010/Academic/Kikut-Stein_2024.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%2010/Academic/Thorn-#chatsafe_project.pdf)
 
 ### Week 11 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 11/Academic/Dooley_2021.pdf)  
-[Reading 2](Course Materials/Readings/Week 11/Academic/Lewandowski-youth_climate_survey.pdf)
+[Reading 1](Course%20Materials/Readings/Week%2011/Academic/Dooley_2021.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%2011/Academic/Lewandowski-youth_climate_survey.pdf)
 
 ### Week 12 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 12/Academic/Maibach-harnessing_the_power_of_communication.pdf)  
-[Reading 2](Course Materials/Readings/Week 12/Academic/sinclair-et-al-behavioral-interventions-motivate-action-to-address-climate-change.pdf)
+[Reading 1](Course%20Materials/Readings/Week%2012/Academic/Maibach-harnessing_the_power_of_communication.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%2012/Academic/sinclair-et-al-behavioral-interventions-motivate-action-to-address-climate-change.pdf)
 
 ### Week 13 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 13/Academic/Ojala-youth_and_climate_communication.pdf)  
-[Reading 2](Course Materials/Readings/Week 13/Academic/Trott_2024.pdf)
+[Reading 1](Course%20Materials/Readings/Week%2013/Academic/Ojala-youth_and_climate_communication.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%2013/Academic/Trott_2024.pdf)
 
 ### Week 14 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 14/Academic/Lewis-not_seeing_eye_to_eye.pdf)  
-[Reading 2](Course Materials/Readings/Week 14/Academic/Song-what_counts_as_an_environmental_issue.pdf)
-
+[Reading 1](Course%20Materials/Readings/Week%2014/Academic/Lewis-not_seeing_eye_to_eye.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%2014/Academic/Song-what_counts_as_an_environmental_issue.pdf)
 
 ## Practical {.tabset}
 
+### Week 1 {.tabset}
+No readings
+
 ### Week 2 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 2/Practical/Leveraging.pdf)  
-[Reading 2](Course Materials/Readings/Week 2/Practical/CFCL Stepping Stone 1.pdf)  
+[Reading 1](Course%20Materials/Readings/Week%202/Practical/Leveraging.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%202/Practical/CFCL%20Stepping%20Stone%201.pdf)
 
 ### Week 3 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 3/Practical/CFCL Stepping Stone 2.pdf)  
-[Reading 2](Course Materials/Readings/Week 3/Practical/FINAL-Youth-Engaged-Research-report-092024.pdf)  
+[Reading 1](Course%20Materials/Readings/Week%203/Practical/CFCL%20Stepping%20Stone%202.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%203/Practical/FINAL-Youth-Engaged-Research-report-092024.pdf)
 
 ### Week 4 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 4/Practical/CFCL Stepping Stone 3.pdf)  
+[Reading 1](Course%20Materials/Readings/Week%204/Practical/CFCL%20Stepping%20Stone%203.pdf)
 
 ### Week 5 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 5/Practical/CFCL Stepping Stone 4.pdf)  
+[Reading 1](Course%20Materials/Readings/Week%205/Practical/CFCL%20Stepping%20Stone%204.pdf)
 
 ### Week 6 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 6/Practical/CFCL Stepping Stone 4.pdf)  
+[Reading 1](Course%20Materials/Readings/Week%206/Practical/CFCL%20Stepping%20Stone%204.pdf)
 
 ### Week 7 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 7/Practical/CFCL Stepping Stone 5.pdf)  
+[Reading 1](Course%20Materials/Readings/Week%207/Practical/CFCL%20Stepping%20Stone%205.pdf)
 
 ### Week 8 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 8/Practical/CFCL Stepping Stone 6.pdf)  
-[Reading 2](Course Materials/Readings/Week 8/Practical/tpb.measurement.pdf)  
+[Reading 1](Course%20Materials/Readings/Week%208/Practical/CFCL%20Stepping%20Stone%206.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%208/Practical/tpb.measurement.pdf)
+
+### Week 9 {.tabset}
+No readings (Spring Break)
 
 ### Week 10 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 10/Practical/CFCL Stepping Stone 6.pdf)  
-[Reading 2](Course Materials/Readings/Week 10/Practical/Orygen-Co-designing-with-YP-the-fundamentals.pdf)  
+[Reading 1](Course%20Materials/Readings/Week%2010/Practical/CFCL%20Stepping%20Stone%206.pdf)\
+[Reading 2](Course%20Materials/Readings/Week%2010/Practical/Orygen-Co-designing-with-YP-the-fundamentals.pdf)
 
 ### Week 11 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 11/Practical/CFCL Stepping Stone 7.pdf) 
+[Reading 1](Course%20Materials/Readings/Week%2011/Practical/CFCL%20Stepping%20Stone%207.pdf)
 
 ### Week 12 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 12/Practical/CFCL Stepping Stone 7.pdf) 
+[Reading 1](Course%20Materials/Readings/Week%2012/Practical/CFCL%20Stepping%20Stone%207.pdf)
 
 ### Week 13 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 13/Practical/CFCL Stepping Stone 8.pdf) 
+[Reading 1](Course%20Materials/Readings/Week%2013/Practical/CFCL%20Stepping%20Stone%208.pdf)
 
 ### Week 14 {.tabset}
 
-[Reading 1](Course Materials/Readings/Week 14/Practical/CFCL Stepping Stone 9.pdf) 
+[Reading 1](Course%20Materials/Readings/Week%2014/Practical/CFCL%20Stepping%20Stone%209.pdf)
 
 # YPAR Materials {.tabset}
 
-## Templates
+## Templates {.tabset}
 
-## 
+[Engagement Session Agenda](YPAR%20Materials/Templates/Engagement%20session%20agenda%20template.docx)
 
+[Final Presentation](YPAR%20Materials/Templates/Final%20Presentation%20template.pptx)
+
+## Entire Class {.tabset}
+
+### Session 1 {.tabset}
+
+[Agenda](YPAR%20Materials/Entire%20Class/Session%201/Agenda.docx)
+
+[Introduction Prompts](YPAR%20Materials/Entire%20Class/Session%201/Introduction%20Prompts.docx)
+
+### Session 2 {.tabset}
+
+[Agenda](YPAR%20Materials/Entire%20Class/Session%202/Agenda.docx)
+
+[Slides](YPAR%20Materials/Entire%20Class/Session%202/Engagement%20Slides.pptx)
+
+[Activity Prompts](YPAR%20Materials/Entire%20Class/Session%202/Activity%20Prompts.docx)
+
+### Session 3 {.tabset}
+
+[Agenda](YPAR%20Materials/Entire%20Class/Session%203/Agenda.docx)
+
+[Slides](YPAR%20Materials/Entire%20Class/Session%203/Engagement%20Slides.pptx)
+
+[Would-you-rather Questions](YPAR%20Materials/Entire%20Class/Session%203/would you rather questions.docx)
+
+[Community Guidelines Facilitation Sheet](YPAR%20Materials/Entire%20Class/Session%203/Community Guidelines Facilitation Sheet.docx)
+
+#### Mapping Activity {.tabset}
+
+[Facilitator Guide](YPAR%20Materials/Entire%20Class/Session%203/Mapping Activity/Guide.docx)
+
+[Guiding Worksheet](YPAR%20Materials/Entire%20Class/Session%203/Mapping Activity/Guiding Worksheet.docx)
+
+[West Philly Map](YPAR%20Materials/Entire%20Class/Session%203/Mapping Activity/west_local_mappingactivity.pdf)
+
+[Urban Heat Map](YPAR%20Materials/Entire%20Class/Session%203/Mapping Activity/urban-heat-map.pdf)
+
+[Other Maps](YPAR%20Materials/Entire%20Class/Session%203/Mapping Activity/other_maps.pdf)
+
+### Session 4 {.tabset}
+
+[Agenda](YPAR%20Materials/Entire%20Class/Session%204/Agenda.docx)
+
+[Slides](YPAR%20Materials/Entire%20Class/Session%204/Engagement%20Slides.pptx)
+
+[Check-in](YPAR%20Materials/Entire%20Class/Session%204/Check-in.docx)
+
+[Check-out](YPAR%20Materials/Entire%20Class/Session%204/Check-out.docx)
+
+#### Identifying Specific Problems Activity {.tabset}
+
+[Facilitator Guide](YPAR%20Materials/Entire%20Class/Session%204/Identifying Specific Problems Activity/Guide.docx)
+
+[Systems Theory Handout](YPAR%20Materials/Entire%20Class/Session%204/Identifying Specific Problems Activity/SystemsTheoryHandout.docx)
+
+#### Solution Brainstorming Activity {.tabset}
+
+[Facilitator Guide](YPAR%20Materials/Entire%20Class/Session%204/Solution Brainstorming Activity/Guide.docx)
+
+[Issue Chart](YPAR%20Materials/Entire%20Class/Session%204/Solution Brainstorming Activity/Issue Chart.docx)
+
+### Session 5 {.tabset}
+
+[Slides](YPAR%20Materials/Entire%20Class/Session%205/Engagement%20Slides.pptx)
+
+### Session 6 {.tabset}
+
+[Slides](YPAR%20Materials/Entire%20Class/Session%206/Engagement%20Slides.pptx)
+
+### Session 7 {.tabset}
+
+[Slides](YPAR%20Materials/Entire%20Class/Session%207/Engagement%20Slides.pptx)
+
+## Group-specific {.tabset}
+
+### Gun Violence {.tabset}
+
+#### Session 5 {.tabset}
+
+
+### Mental Health {.tabset}
+
+#### Session 5 {.tabset}
+
+[Agenda](YPAR%20Materials/Group-specific/Mental Health/Session 5/Agenda.docx)
+
+### Social Needs {.tabset}
+
+#### Session 5 {.tabset}
+
+[Agenda](YPAR%20Materials/Group-specific/Social Needs/Session 5/Agenda.docx)
+
+[Youth-led Initiative Examples](YPAR%20Materials/Group-specific/Social Needs/Session 5/Youth-led initiative examples.pdf)
+
+#### Session 6 {.tabset}
+
+[Agenda](YPAR%20Materials/Group-specific/Social Needs/Session 6/Agenda.docx)
+
+[Interpreting Photos](YPAR%20Materials/Group-specific/Social Needs/Session 6/Interpreting Photos.docx)
+
+[Project Ideas](YPAR%20Materials/Group-specific/Social Needs/Session 6/project_ideas.pdf)
+
+[Photovoice in Action](YPAR%20Materials/Group-specific/Social Needs/Session 6/Photovoice in Action.docx)
 
 
 # Consent Materials {.tabset}
